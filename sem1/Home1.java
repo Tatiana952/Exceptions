@@ -1,9 +1,5 @@
-package geek;
-
 import java.util.Arrays;
 import java.util.Random;
-
-import static java.lang.Math.round;
 
 public class Home1 {
     static Random random = new Random();
